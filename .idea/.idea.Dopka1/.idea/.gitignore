@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Dopka1.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Q56\RiderProjects\Dopka1\.idea\.idea.Dopka1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
